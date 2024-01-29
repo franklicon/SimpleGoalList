@@ -1,0 +1,56 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.arrowParens": "avoid",
+  "prettier.bracketSpacing": true,
+  "prettier.configPath": "",
+  "prettier.endOfLine": "auto",
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.ignorePath": ".prettierignore",
+  "prettier.insertPragma": false,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.prettierPath": "",
+  "prettier.printWidth": 80,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.requireConfig": false,
+  "prettier.requirePragma": false,
+  "prettier.resolveGlobalModules": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "none",
+  "prettier.useEditorConfig": true,
+  "prettier.useTabs": false,
+  "prettier.vueIndentScriptAndStyle": false,
+  "svg.preview.background": "white",
+}
